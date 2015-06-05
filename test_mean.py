@@ -1,4 +1,5 @@
 from mean import *
+# from __future__ import division
 import unittest
 
 def test_ints():
